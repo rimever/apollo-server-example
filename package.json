@@ -1,0 +1,24 @@
+{
+  "name": "apollo-server-example",
+  "version": "1.0.0",
+  "description": "Software Design 2021/08でGraphQLの演習",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rimever/apollo-server-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rimever/apollo-server-example/issues"
+  },
+  "homepage": "https://github.com/rimever/apollo-server-example#readme",
+  "dependencies": {
+    "apollo-server": "^3.0.2",
+    "graphql": "^15.5.1"
+  }
+}
